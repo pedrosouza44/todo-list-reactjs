@@ -11,8 +11,6 @@ function App() {
 
       <div className={styles.wrapper}>
         <TodoContainer />
-        {/* <div style={{ background: 'red'}}>TODO AQUI</div> */}
-        {/* <div style={{ background: 'red'}}>TODO AQUI</div> */}
       </div>
     </>
   )
